@@ -85,7 +85,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="29d60fed-e5aa-43bb-8271-b6857979c2c6" />
+    <option name="defaultAccountId" value="f3ebfc71-349a-4903-b9d6-eaa587fed34c" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jrt:///usr/lib/jvm/default-java!/java.base/java/lang/Object.class" root0="SKIP_INSPECTION" />
@@ -122,7 +122,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.47011495",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "configurable.group.language"
   }
 }]]></component>
   <component name="RunManager" selected="Gradle.tinyB-gradle-demo2 [run]">
@@ -298,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752200116846</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Project using TinyB, i am just doing a few simple bits to get started,this is first comit and project does run ATM. Just about to upgrade gradle to support java 21 so have reference to jump back to">
+      <option name="closed" value="true" />
+      <created>1752224218143</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752224218143</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
