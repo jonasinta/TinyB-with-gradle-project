@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6bb30e38-47c5-4a49-9f40-cc6ae0937ad1" name="Changes" comment="Project using TinyB, i am just doing a few simple bits to get started,this is first comit and project does run ATM. Just about to upgrade gradle to support java 21 so have reference to jump back to">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +123,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.47011495",
-    "settings.editor.selected.configurable": "configurable.group.language"
+    "settings.editor.selected.configurable": "project.propDebugger"
   }
 }]]></component>
   <component name="RunManager" selected="Gradle.tinyB-gradle-demo2 [run]">
@@ -246,6 +247,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-3183f394aec4-75f08976" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -306,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752224218143</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Project using TinyB, i am just doing a few simple bits to get started,this is first comit and project does run ATM. Just about to upgrade gradle to support java 21 so have reference to jump back to">
+      <option name="closed" value="true" />
+      <created>1752224560003</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752224560003</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
